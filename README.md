@@ -20,15 +20,26 @@ API Key válida da Football API
 <br>
 Ligas que vão retornar Jogos 
 ⚽ Word Cup
+<br>
 ⚽ Primeira Divison
+<br>
 ⚽ Copa Libertadores
+<br>
 ⚽ Primeira Liga
+<br>
 ⚽ Holandes
+<br>
 ⚽ Serie A
+<br>
 ⚽ Bundesliga
+<br>
 ⚽ Ligue 1
+<br>
 ⚽ European Championship
+<br>
 ⚽ UCL
+<br>
 ⚽ PREMIER League
+<br>
 
 OBs: se der erros em Linhas so dar um F5 ate sumir
