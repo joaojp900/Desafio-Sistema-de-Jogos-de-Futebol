@@ -3,15 +3,15 @@ Este projeto consulta e exibe partidas de futebol com base em competições e ti
 <br>
 🚀 Funcionalidades<br>
 <br>
-Buscar times dentro de uma competição
-Exibir escudo do time pesquisado
-Listar partidas do time em determinada competição
+Buscar times dentro de uma competição<br>
+Exibir escudo do time pesquisado<br>
+Listar partidas do time em determinada competição<br>
 Interface responsiva usando Bootstrap 5<br>
 🛠 Tecnologias Utilizadas
 <br>
 PHP
-cURL para chamadas à API
-Bootstrap 5 para estilização
+cURL para chamadas à API<br>
+Bootstrap 5 para estilização<br>
 football-data para dados dos jogos<br>
 <br>
 📌 Requisitos
