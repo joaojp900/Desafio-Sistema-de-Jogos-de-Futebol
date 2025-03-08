@@ -2,7 +2,6 @@
 Este projeto consulta e exibe partidas de futebol com base em competições e times fornecidos pelo usuário. Utiliza a football-data para obter dados dos jogos.<br>
  
 🚀 Funcionalidades<br>
- 
 Buscar times dentro de uma competição<br>
 Exibir escudo do time pesquisado<br>
 Listar partidas do time em determinada competição<br>
