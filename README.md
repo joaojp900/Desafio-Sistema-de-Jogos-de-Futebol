@@ -1,18 +1,18 @@
 ⚽ Sistema de Jogos de Futebol
 Este projeto consulta e exibe partidas de futebol com base em competições e times fornecidos pelo usuário. Utiliza a football-data para obter dados dos jogos.
 <br>
-🚀 Funcionalidades
+🚀 Funcionalidades<br>
 <br>
 Buscar times dentro de uma competição
 Exibir escudo do time pesquisado
 Listar partidas do time em determinada competição
-Interface responsiva usando Bootstrap 5
+Interface responsiva usando Bootstrap 5<br>
 🛠 Tecnologias Utilizadas
 <br>
 PHP
 cURL para chamadas à API
 Bootstrap 5 para estilização
-football-data para dados dos jogos
+football-data para dados dos jogos<br>
 <br>
 📌 Requisitos
 <br>
