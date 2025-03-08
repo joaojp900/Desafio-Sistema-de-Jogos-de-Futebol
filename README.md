@@ -7,6 +7,7 @@ Buscar times dentro de uma competição<br>
 Exibir escudo do time pesquisado<br>
 Listar partidas do time em determinada competição<br>
 Interface responsiva usando Bootstrap 5<br>
+<br>
 🛠 Tecnologias Utilizadas
 <br>
 PHP
